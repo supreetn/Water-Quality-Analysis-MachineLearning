@@ -6,15 +6,11 @@ This research aims to create a predictive model for water quality, offering an e
 
 ## Overview
 This reserach focuses on the water quality of Delaware River basin which provides water to Philadelphia and New York City. About 6.4 billion gallons of water is withdrawn everyday. It was once a polluted waterbody that is on the road to recovery. 
+
   
-
-
-
-
-
 ## Approaches & Methods 
 
-- *Data collection*: Global River Water Archive and United States Geological Survey Catalog - containing daily values of water parameter variables - dissolved oxygen, fecal coliform, pH, specific conductance, temperature, turbidity, nitrogen, phosphates, alkalinity, chloride & suspended solids.
+- *Data collection*: Global River Water Archive (https://zenodo.org/record/5097437#.YyuqunbMKUl) and United States Geological Survey Catalog (https://www.sciencebase.gov/catalog/item/5e010424e4b0b207aa033d8c) - containing daily values of water parameter variables - dissolved oxygen, fecal coliform, pH, specific conductance, temperature, turbidity, nitrogen, phosphates, alkalinity, chloride & suspended solids.
 - The Water Quality Index (WQI) is calculated using these parameters, which is the target variable.  
 - The workflow 
 ![Workflow](https://github.com/swethasubu93/Analytical-Processing/assets/109064336/8259509f-e1b1-44a9-872d-20b29dd560aa)

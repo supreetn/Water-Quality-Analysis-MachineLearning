@@ -14,8 +14,18 @@ This reserach focuses on the water quality of Delaware River basin which provide
 - The Water Quality Index (WQI) is calculated using these parameters, which is the target variable.  
 - The workflow 
 ![Workflow](https://github.com/swethasubu93/Analytical-Processing/assets/109064336/8259509f-e1b1-44a9-872d-20b29dd560aa)
-- *Data Preprocessing & Integration*: Unneccesary columns dropped, column names changed for uniformity, datasets integrated, uniform naming convention maintained, maintained uniform unit of measure, dataset pivoted, handled misisng values by interpolation & median techniques, correlation analysis and PCA.
-- *Model Development*: SVM, Decision Tree, XGBoost, Artificial Neural Network - The model input were of three types - features after 1) PCA , 2) correlation analysis and 3) all parameters.
+- *Data Preprocessing & Integration*:
+    - Unneccesary columns dropped
+    - column names changed for uniformity
+    - datasets are integrated
+    - uniform naming convention maintained
+    - maintained uniform unit of measure
+    - dataset is pivoted
+    - handled misisng values by interpolation & median techniques
+    - correlation analysis and PCA.
+- *Model Development*:
+  - Models trained - SVM, Decision Tree, XGBoost, Artificial Neural Network
+  - The model input were of three types - features after 1) PCA , 2) correlation analysis and 3) all parameters.
 
 
 ## Results 

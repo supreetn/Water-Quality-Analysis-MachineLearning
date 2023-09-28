@@ -33,3 +33,12 @@ This reserach focuses on the water quality of Delaware River basin which provide
 - It is seen that the models with all 14 parameters as input have outperformed the other two types.  
 - The XGBoost model gave the best performance at 94% validation accuracy and 78% testing accuracy for model with all 14 parameters as input.
 - Decision Tree is the second best at 60% testing accuracy (for all 14 parameters as input).
+
+## 🔗 Contributors & Credits
+Supreetha Naik https://github.com/supreetn
+
+Sushmita Joshi https://github.com/sushmita3105
+
+Madhura Pandit https://github.com/madhurapandit
+
+Swetha Subramanian https://github.com/swethasubu93

@@ -1,4 +1,3 @@
-
 # Water Quality Analysis and Prediction using Machine Learning
 
 This research aims to create a predictive model for water quality, offering an efficient alternative to costly and time-consuming laboratory methods. It's vital for maintaining the quality of surface water, which is a primary source of drinking water and essential for ecological balance.
